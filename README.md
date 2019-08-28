@@ -1,2 +1,3 @@
 # AndrewNGMachineLearningCourse
-Assignments that are part of Machine Learning Course
+Assignments in Octave completed for the fulfillment of Coursera 
+Introduction to Machine Learning of Standford University by Andrew NG
